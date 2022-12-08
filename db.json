@@ -1,15 +1,31 @@
 {
-  "books": [
+  "user": [
     {
-      "id": 1,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
+      "username": "1",
+      "fullname": "Siddikkhan Imtiyajkhan Pathan",
+      "email": "siddikkhanpathan4@gmail.com",
+      "password": "cityslicka",
+      "avatar": "https://i.pravatar.cc/200",
+      "followers": 0,
+      "following": 0,
+      "id": 1
+    },
+    {
+      "username": "siddik",
+      "fullname": "Siddikkhan",
+      "email": "siddikkhanpathan4@gmail.com",
+      "password": "12",
+      "avatar": "https://i.pravatar.cc/200",
+      "followers": 0,
+      "following": 0,
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "tweet": "Random Tweet",
+      "imageUrl": "https://media1.giphy.com/media/f4eXhcyemnGwM/giphy.gif?cid=4fb88e75w05cd37l25fs15pd3vwza5c024j2yakz2duj5d9m&rid=giphy.gif&ct=g",
+      "id": 1
     }
   ]
 }
